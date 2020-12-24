@@ -1,7 +1,15 @@
 ---
 title: "My Website"
-description: |
-  Welcome to the website. I hope you enjoy it!
+image: "road.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/durraniu/"
+  - label: Twitter
+    url: "https://twitter.com/umairdurrani87"
+  - label: GitHub
+    url: "https://github.com/durraniu"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
